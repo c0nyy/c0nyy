@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @c0nyy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning *Laravel*
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently studying Computer Engineering at Universitas Telkom
+- 🌱 I’m currently learning Laravel
+- 📫 I'm mostly active within the Facebook, and Instagram
 
 <!---
 c0nyy/c0nyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
